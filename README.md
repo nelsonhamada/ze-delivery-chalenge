@@ -6,3 +6,8 @@ Desafio de back-end do Zé Delivery, você pode verificar as intruções do desa
 
 # Fase atual:
   Planejamento de fluxo de trabalho para início de desenvolvimento.
+
+
+# Estrutura do Banco de dados:
+
+[Partners in map](files/images/partner-entity.png)
