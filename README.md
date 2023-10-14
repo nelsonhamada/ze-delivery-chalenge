@@ -10,4 +10,4 @@ Desafio de back-end do Zé Delivery, você pode verificar as intruções do desa
 
 # Estrutura do Banco de dados:
 
-[Partners in map](files/images/partner-entity.png)
+![Partners entity](files/images/partner-entity.png)
