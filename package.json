@@ -6,7 +6,7 @@
     "start": "ts-node src/server.ts",
     "dev": "tsnd --watch \"./src/**\" ./src/server.ts",
     "predev": "npm run db:reset",
-    "test": "mocha -r ts-node/register ./tests/**/*$NAME*.test.ts -t 10000 --exit",
+    "test": "mocha -r ts-node/register ./src/tests/**/*$NAME*.test.ts -t 10000 --exit",
     "lint": "tsc && eslint . --ext .ts",
     "db:reset": "npx -y tsc && npx sequelize-cli db:drop && npx sequelize-cli db:create && npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all",
     "test:coverage": "nyc --all --include src/models --include src/services --include src/controllers npm run test"
