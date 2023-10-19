@@ -1,8 +1,8 @@
 # Ze-Delivery-chalenge
 
-Desafio de back-end do Zé Delivery, você pode verificar as intruções do desafio no arquivo backend.md presente nesse repositório.
+Desafio de back-end do Zé Delivery, você pode verificar as intruções do desafio no arquivo ![backend.md](backend.md) presente nesse repositório.
 
-
+Para mais desafios como esse acesse (https://github.com/ZXVentures/ze-code-challenges)
 
 ## Fase atual:
   Estrutura definida, criando banco de dados e populando.
