@@ -5,7 +5,7 @@ Desafio de back-end do Zé Delivery, você pode verificar as intruções do desa
 Para mais desafios como esse acesse (https://github.com/ZXVentures/ze-code-challenges)
 
 ## Fase atual:
-  Estrutura definida, criando banco de dados e populando.
+  Implementando rotas de pesquisa.
 
 
 ## Para rodar em sua máquina:
