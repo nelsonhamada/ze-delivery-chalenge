@@ -7,3 +7,7 @@ export interface IPartner extends Identifiable {
   coverageArea: number;
   address: number;
 }
+
+export interface IPartnersModel {
+  findAll: () => Promise<IPartner[]>;
+}
